@@ -1,0 +1,13 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.recipe-item {
+    color: black;
+    text-decoration: none;
+}
